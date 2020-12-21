@@ -1,5 +1,4 @@
-.navbar .navbar-expand-lg .navbar-light .bg-light #tk-color{
-    background-color: aquamarine;
+body{
+    background-color: black;
 }
-
-
+.bg-light{background-color: rgb(206, 91, 91)!important;}
