@@ -2,3 +2,8 @@ body{
     background-color: black;
 }
 .bg-light{background-color: rgb(206, 91, 91)!important;}
+
+.navbar-brand{
+   font-weight: bold;
+   font-size: x-large;
+}
