@@ -19,11 +19,12 @@ img{
     background-color: white;
     max-width: 30%;
     height: 100%;
-    padding:5%;
+    padding:2%;
     margin:auto;
     margin-top: 3%;
     text-align:center;
 }
+
 @media screen and (max-width:1600px)
 {
     .contactblk{
