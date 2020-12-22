@@ -1,10 +1,17 @@
 .tafblock{
     background-color: white;
     max-width: 50%;
+    height: 100%;
     padding:1%;
     margin:auto;
     margin-top: 3%;
 }
-img{
-    max-width: 30%;
+h1{
+    text-align: center;
 }
+img{
+    width: 100%;
+    height:100%;
+
+}
+
