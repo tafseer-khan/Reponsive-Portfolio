@@ -22,12 +22,12 @@ img{
     padding:5%;
     margin:auto;
     margin-top: 3%;
+    text-align:center;
 }
 @media screen and (max-width:1600px)
 {
     .contactblk{
-        padding:10%;
-        text-align: center;
+        padding:5%;
     }
    .tkbig{
        display:none;
