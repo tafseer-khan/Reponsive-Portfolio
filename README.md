@@ -10,5 +10,5 @@ This page is located in the "portfolio.html" file
 
 The Contact page is denoted as the "Contact" section which displays my phone, email, github, and linked-in. All of this information are responsive links which will open your default phone app, email app, or open a new tab depending on which link you click. 
 
-![alt text](https://github.com/[tafseer-khan]/[Reponsive-Portfolio]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/tafseer-khan/Reponsive-Portfolio/blob/main/assets/Screenshot.png)
 
