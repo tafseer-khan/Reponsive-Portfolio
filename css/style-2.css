@@ -1,3 +1,5 @@
+/* This page is for the style of individual page's elements */
+/* Tafblock style is set for containers in the About and Portfolio pages */
 .tafblock{
     background-color: white;
     max-width: 50%;
@@ -6,15 +8,17 @@
     margin:auto;
     margin-top: 3%;
 }
+/* Sets all of my headings to be centered */
 h1{
     text-align: center;
 }
+/* Fits images to be sized properly for their containers */
 img{
     width: 100%;
     height:100%;
 
 }
-
+/* This container style is for only the contact page's container */
 .contactblk{
     background-color: white;
     max-width: 30%;
@@ -25,6 +29,7 @@ img{
     text-align:center;
 }
 
+/* Once viewing width is under 1600px the information and style of the contact information will transform */
 @media screen and (max-width:1600px)
 {
     .contactblk{
@@ -34,6 +39,7 @@ img{
        display:none;
    }
 }
+/* This ensures that settings given for any width under 1600px is not shown for widths over 1600px */
 @media screen and (min-width:1601px)
 {
     .tksmall{
