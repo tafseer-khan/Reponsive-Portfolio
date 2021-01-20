@@ -1,6 +1,7 @@
 # Reponsive-Portfolio
 This is the README for the Webpage for Tafseer Khan's Portfolio
 The link to the repository is https://tafseer-khan.github.io/Reponsive-Portfolio/
+The link to the Website is: https://tafseer-khan.github.io/Reponsive-Portfolio/
 
 The home page denoted as the "About" section which displays a photo of my self and some general info about myself. 
 This page is located in the "index.html" file
